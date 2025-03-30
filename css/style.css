@@ -353,7 +353,7 @@ input {
     width: calc(118vw - 120px);
   }
 
-  .cardContainer {
+.play  .cardContainer {
     margin: 0;
     justify-content: center;
   }
@@ -388,8 +388,8 @@ input {
 
 @media (max-width: 500px) {
   .play {
-    top: 315px;
-  }
+    top: 293px;
+}
   .card {
     width: 100%;
   }
